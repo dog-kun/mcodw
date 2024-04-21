@@ -17,3 +17,8 @@ $.ajax({
         document.getElementById('online').innerHTML="目前在线人数："+online
     }
 });
+
+//手机端自动跳转
+if (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {
+  window.location.replace("https://m.mcyouxi.asia/")
+}
