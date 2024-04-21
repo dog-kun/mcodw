@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin-top: 0;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+:root{
+    --tit-color: #1d1d1f;
+}
+
+
+
+body {
+    /* 加载背景图 */
+    background-image: url(../img/api.paugram.jpg);
+    /* 背景图垂直、水平均居中 */
+    background-position: center center;
+    /* 背景图不平铺 */
+    background-repeat: no-repeat;
+    /* 当内容高度大于图片高度时，背景图像的位置相对于viewport固定 */
+    background-attachment: fixed;
+    /* 让背景图基于容器大小伸缩 */
+    background-size: cover;
+    /* 设置背景颜色，背景图加载过程中会显示背景色 */
+    transition: 0.3s;
+}
+
+#box {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 250px 0 0 250px;
+}
+
+#title {
+    color: var(--tit-color);
+    font-size: 70px;
+    font-weight: 900;
+}
+
+#s-title {
+    font-size: 35px;
+    font-weight: 900;
+    color: var(--tit-color);
+}
+
+button {
+    padding: 10px;
+    display: inline-block;
+    background-color: #f1f1f1;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    color: #fff;
+}
+
+#btn-join {
+    margin-top: 20px;
+    margin-right: 10px;
+    background: linear-gradient(165deg, #d63031, #ff7675);
+}
+
+#btn-about {
+    margin-top: 20px;
+    margin-right: 10px;
+    background: linear-gradient(165deg, #2ecc71, #55efc4);
+}
+
+#nav,#nav-a{
+    display: flex;
+}
+
+#nav-a a{
+    display: inline-block;
+    color: rgb(64, 64, 64);
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 10px;
+    transition: easewoyuanben 0.3s;
+}
+
+#nav-a a:hover{
+    color: rgb(212, 95, 95);
+}
+
+#nav {
+    padding: 16px 10%;
+    top: 0;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    background-color: white;
+}
+
+#nav h1{
+    display: inline-block;
+    color:  #000;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 12px;
+}
