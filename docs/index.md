@@ -1,16 +1,17 @@
+
 ---
 layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: MCODW
-  text: 1.21生电粘液服务器
-  tagline: 使用Purpur端的公益离线我的世界服务器，主打物资共享，快快加入罢
+  name: 茂茂的
+  text: 前端导航模板
+  tagline: 基于 VitePress 的个人前端导航页面模板
   image:
-    src: https://image.mcjpg.org/file/1735631982279_20187824-modified.png
-    alt: MCODW
+    src: /logo.png
+    alt: 茂茂物语
   actions:
-    - text: QQ群组
+    - text: 茂茂物语
       link: https://notes.fe-mm.com
     - text: 前端导航
       link: /nav/
