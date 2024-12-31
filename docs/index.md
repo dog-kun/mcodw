@@ -3,25 +3,18 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: MCODW
+  text: 1.21生电粘液服务器
+  tagline: 使用Purpur端的公益离线我的世界服务器，主打物资共享，快快加入罢
   image:
-    src: /logo.png
-    alt: 茂茂物语
+    src: https://image.mcjpg.org/file/1735631982279_20187824-modified.png
+    alt: MCODW
   actions:
-    - text: 茂茂物语
+    - text: QQ群组
       link: https://notes.fe-mm.com
-    - text: 前端导航
-      link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
 features:
-  - icon: 📖
+    <!--
+    - icon: 📖
     title: 前端物语
     details: 整理前端常用知识点<small>（面试八股文）</small><br />如有异议按你的理解为主，不接受反驳
     link: https://notes.fe-mm.com/fe/javascript/types
@@ -50,6 +43,7 @@ features:
     title: 吾志所向，一往无前。
     details: '<small class="bottom-small">一个想躺平的小开发</small>'
     link: https://notes.fe-mm.com/mao
+    -->
 ---
 
 <style>
