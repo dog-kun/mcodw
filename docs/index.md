@@ -3,22 +3,18 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: MCODW
+  text: 生电服务器
+  tagline: Purpur1.21.1生电物资共产服务器
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: MCODW
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
+    - text: QQ群组
+      link: https://qm.qq.com/q/dkvmSipaKY
+      theme: alt
     - text: 前端导航
       link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
       theme: alt
 features:
   - icon: 📖
