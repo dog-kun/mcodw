@@ -10,15 +10,11 @@ hero:
     src: /logo.png
     alt: MCODW
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
+    - text: 加入群组
+      link: https://qm.qq.com/q/kp4IG9X5te
+      theme: alt
     - text: 前端导航
       link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
       theme: alt
 features:
   - icon: 📖
