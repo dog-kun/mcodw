@@ -12,8 +12,7 @@ hero:
   actions:
     - text: QQ群组
       link: https://notes.fe-mm.com
-features:
-    
+      
 ---
 
 <style>
