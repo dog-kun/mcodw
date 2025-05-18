@@ -3,22 +3,17 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: MCODW
+  text: 服务器官方网站
+  tagline: 粘液生电玩法的我的世界服务器
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: MCODW
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
-    - text: 前端导航
+    - text: 加入QQ群
+      link: https://qm.qq.com/q/mYu9mvUf4s
+    - text: 玩家导航
       link: /nav/
-      theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
       theme: alt
 features:
   - icon: 📖
