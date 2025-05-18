@@ -15,6 +15,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'MCODW状态监测',
         link: 'https://status.mcodw.com/.env',
       },
+      {
+        icon: 'https://slimefun-helper.guizhanss.net/favicon.ico',
+        title: '粘液计算器',
+        desc: '粘液科技所需物品计算器',
+        link: 'https://slimefun-helper.guizhanss.net/',
+      },
     ],
   },
   {
