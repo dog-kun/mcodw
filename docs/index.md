@@ -7,7 +7,7 @@ hero:
   text: 服务器官方网站
   tagline: 粘液生电玩法的我的世界服务器
   image:
-    src: /logo.png
+    src: https://s21.ax1x.com/2025/05/24/pEzLbVg.png
     alt: MCODW
   actions:
     - text: 加入QQ群
